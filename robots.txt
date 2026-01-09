@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block internal folders if you ever add them
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://www.dolmenscastle.in/sitemap.xml
